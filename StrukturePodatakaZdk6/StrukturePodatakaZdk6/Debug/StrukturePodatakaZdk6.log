@@ -1,0 +1,4 @@
+﻿  StrukturePodatakaZdk6.cpp
+c:\users\stipe\source\repos\strukturepodatakazdk6\strukturepodatakazdk6\strukturepodatakazdk6.cpp(109): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\stipe\source\repos\strukturepodatakazdk6\strukturepodatakazdk6\strukturepodatakazdk6.cpp(117): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  StrukturePodatakaZdk6.vcxproj -> C:\Users\Stipe\source\repos\StrukturePodatakaZdk6\Debug\StrukturePodatakaZdk6.exe
